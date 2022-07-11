@@ -1,6 +1,7 @@
 a = int(input())
 b = int(input())
 count = 0
+b = 0
 for i in range(a, b + 1):
     l = len(str(i))
     s = 0
